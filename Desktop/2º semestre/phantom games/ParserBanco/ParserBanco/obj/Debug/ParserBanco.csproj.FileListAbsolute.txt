@@ -1,0 +1,10 @@
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\bin\Debug\ParserBanco.exe.config
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\bin\Debug\ParserBanco.exe
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\bin\Debug\ParserBanco.pdb
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\obj\Debug\ParserBanco.csprojAssemblyReference.cache
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\obj\Debug\ParserBanco.csproj.CoreCompileInputs.cache
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\obj\Debug\ParserBanco.csproj.CopyComplete
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\obj\Debug\ParserBanco.exe
+C:\Users\ZELIA.PORTO\Desktop\2º semestre\phantom games\ParserBanco\ParserBanco\obj\Debug\ParserBanco.pdb
